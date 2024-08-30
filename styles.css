@@ -14,3 +14,11 @@ button {
     background-color: orange;
     font-size: 18px;
 }
+.lorem {
+    background-color: white;
+    color: black;
+    font-size: 18px;
+    font-weight: normal;
+    text-align:left;
+    padding-bottom: 18px;
+}
